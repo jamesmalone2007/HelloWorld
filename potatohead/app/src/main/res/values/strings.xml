@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">potatohead</string>
+
+    <string name="app_title">Mr. Potato Head</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hat_checkbox">Hat</string>
+    <string name="eyebrows_checkbox">Eyebrows</string>
+    <string name="nose_checkbox">Nose</string>
+    <string name="moustache_checkbox">Moustache</string>
+    <string name="arms_checkbox">Arms</string>
+
+    <string name="eyes_checkbox">Eyes</string>
+    <string name="glasses_checkbox">Glasses</string>
+    <string name="mouth_checkbox">Mouth</string>
+    <string name="ears_checkbox">Ears</string>
+    <string name="shoes_checkbox">Shoes</string>
+
+    <string name="description">Click his parts to add/remove them</string>
+
+</resources>
